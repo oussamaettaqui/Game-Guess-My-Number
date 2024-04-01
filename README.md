@@ -4,15 +4,15 @@ This is a simple game built using JavaScript where the player tries to guess a r
 
 ## Gameplay
 
-![Screenshot 1](./images/image_1.png)
+![Screenshot 1](./Game/images/image_1.png)
 
 ## Winning Scenario
 
-![Screenshot 2](./images/image_2.png)
+![Screenshot 2](./Game/images/image_2.png)
 
 ## Losing Scenario
 
-![Screenshot 3](./images/image_3.png)
+![Screenshot 3](./Game/images/image_3.png)
 
 ## How to Play
 
