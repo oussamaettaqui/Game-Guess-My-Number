@@ -2,7 +2,17 @@
 
 This is a simple game built using JavaScript where the player tries to guess a randomly generated number within a given range.
 
-![Screenshot 1](./Game//images/image_1.png)
+## Gameplay
+
+![Screenshot 1](./images/image_1.png)
+
+## Winning Scenario
+
+![Screenshot 2](./images/image_2.png)
+
+## Losing Scenario
+
+![Screenshot 3](./images/image_3.png)
 
 ## How to Play
 
@@ -11,16 +21,12 @@ This is a simple game built using JavaScript where the player tries to guess a r
 3. The game will provide feedback whether your guess is too high or too low.
 4. Keep guessing until you correctly guess the number or run out of attempts.
 
-![Screenshot 2](./Game//images/image_2.png)
-
 ## Features
 
 - Randomly generated number for each game session.
 - Interactive user interface with clear instructions.
 - Score tracking to keep count of the number of attempts.
 - Highscore tracking to record the best score achieved.
-
-![Screenshot 2](./Game/images/image_3.png)
 
 ## Technologies Used
 
